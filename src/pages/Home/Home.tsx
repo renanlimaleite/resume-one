@@ -34,7 +34,7 @@ function AboutMe({ handleOpenSkills, openSkills }: AboutMeProps) {
         ⚬ Sou desenvolvedor com alguns anos de experiência
       </p>
       <p className="mt-2 text-white text-sm">
-        ⚬ Atualmente eu trabalho como Frontend Enginner
+        ⚬ Atualmente eu trabalho como Frontend Engineer
       </p>
       <p className="mt-2 text-white text-sm">
         ⚬ Minhas principais skills são Javascript, React e Typescript
