@@ -1,9 +1,12 @@
 {
   "name": "react-ts-vite",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "homepage": "https://renanlimaleite.github.io/resume-one",
   "scripts": {
     "dev": "vite",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "prepare": "husky install",
