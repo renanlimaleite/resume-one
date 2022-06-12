@@ -4,4 +4,10 @@
 
 body {
   background-color: #374151;
+  height: 100%;
 }
+
+.vh100 {
+  min-height: 100vh;
+}
+

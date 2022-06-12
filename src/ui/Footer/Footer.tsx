@@ -3,7 +3,7 @@ import { GithubLogo, TwitterLogo } from 'phosphor-react';
 export function Footer() {
   return (
     <footer
-      className="h-8 fixed left-0 bottom-0 w-full bg-gray-800
+      className="h-8 left-0 bottom-0 w-full bg-gray-800
     flex items-center justify-center text-white"
     >
       <div className="flex items-center gap-2">
