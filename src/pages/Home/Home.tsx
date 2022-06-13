@@ -40,7 +40,7 @@ function AboutMe({ handleOpenSkills, openSkills }: AboutMeProps) {
         ⚬ Minhas principais skills são Javascript, React e Typescript
         <small
           onClick={handleOpenSkills}
-          className="ml-1 p-1 border-solid border-2 border-gray-800
+          className="ml-1 p-1 border-solid border-2 border-gray-800 w-max inline-block
               cursor-pointer text-gray-900 rounded-md bg-gray-300 hover:bg-gray-900 hover:border-gray-50 hover:text-gray-50
               transition-colors"
         >
